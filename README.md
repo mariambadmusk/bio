@@ -49,16 +49,15 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 
 ## End-to-End Airbnb Data Pipeline with AWS and GCP
   <!-- Tab Section -->
-<div class="tab">
-  <button class="tablinks" style="background-color: #1E4D6B; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">AWS Glue</button>
-  <button class="tablinks" style="background-color: #228B22; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">Amazon S3</button>
-  <button class="tablinks" style="background-color: #8B0000; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">VPC</button>
-  <button class="tablinks" style="background-color: #4B0082; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">Amazon Athena</button>
-  <button class="tablinks" style="background-color: #FF8C00; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">Amazon Quicksight</button>
-  <button class="tablinks" style="background-color: #483D8B; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">IAM</button>
-  <button class="tablinks" style="background-color: #2E8B57; color: white; border: none; padding: 5px 15px; margin-right: 5px; cursor: pointer;">PySpark</button>
-  <button class="tablinks" style="background-color: #4682B4; color: white; border: none; padding: 5px 15px; cursor: pointer;">GCP</button>
-</div>
+  [![AWS Glue](https://img.shields.io/badge/AWS_Glue-1E4D6B?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/glue/)
+  [![Amazon S3](https://img.shields.io/badge/Amazon_S3-228B22?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/s3/)
+  [![VPC](https://img.shields.io/badge/VPC-8B0000?style=for-the-badge)](https://aws.amazon.com/vpc/)
+  [![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-4B0082?style=for-the-badge)](https://aws.amazon.com/athena/)
+  [![Amazon Quicksight](https://img.shields.io/badge/Amazon_Quicksight-FF8C00?style=for-the-badge)](https://aws.amazon.com/quicksight/)
+  [![IAM](https://img.shields.io/badge/IAM-483D8B?style=for-the-badge)](https://aws.amazon.com/iam/)
+  [![PySpark](https://img.shields.io/badge/PySpark-2E8B57?style=for-the-badge)](https://spark.apache.org/docs/latest/api/python/)
+  [![GCP](https://img.shields.io/badge/GCP-4682B4?style=for-the-badge)](https://cloud.google.com/)
+
 
 
 
