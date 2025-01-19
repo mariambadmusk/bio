@@ -17,6 +17,9 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka)](https://kafka.apache.org/)
 
 
+
+## Projects:
+
 ### AWS Driven News Aggregation And Sentiment Data Pipeline
 
 [![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge)](https://aws.amazon.com/)
@@ -31,7 +34,6 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A5ACD?style=for-the-badge)](https://www.postgresql.org/)
 
 A fully automated data pipeline designed to streamline the process of collecting, analysing, and storing daily news articles. Leveraging the Newsdata.io API, it fetches relevant news articles, performs sophisticated sentiment analysis, and securely stores the processed data in a PostgreSQL database deployed on Amazon RDS. 
-
 
 
 ### End-to-End Airbnb Data Pipeline with AWS and GCP
