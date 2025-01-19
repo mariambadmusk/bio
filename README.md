@@ -5,17 +5,7 @@
 Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years of experience working with various tools and technologies in data engineering, ETL processes, and cloud platforms. My journey in data has allowed me to build pipelines, analyse large datasets, and implement cloud-based solutions, making an impact on data-driven decision-making and business outcomes.
 
 
-### Tools:
-
--------------------------------------------------------------------------------------------------------------------------------------
-|       ![alt text](images/aws.png)       |      ![alt text](images/airflow.png)       |      ![alt text](images/docker.png)        |      
-|------------------------------------|-------------------------------------|--------------------------------------------------------|
--------------------------------------------------------------------------------------------------------------------------------------
-
-
-|       ![alt text](images/pandas.png)     |      ![alt text](images/pyspark.jpeg)       |      ![alt text](images/python.jpeg)     |      ![alt text](images/sql.png)
-|------------------------------------|-------------------------------------|--------------------------------------------------------|--------------------------------------------|
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Tools:
 
 [![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 [![Airflow](https://img.shields.io/badge/Airflow-FF4500?style=for-the-badge&logo=apache-airflow)](https://airflow.apache.org/)
@@ -27,7 +17,7 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 [![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka)](https://kafka.apache.org/)
 
 
-## AWS Driven News Aggregation And Sentiment Data Pipeline
+### AWS Driven News Aggregation And Sentiment Data Pipeline
 
 [![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge)](https://aws.amazon.com/)
 [![EC2](https://img.shields.io/badge/EC2-0066CC?style=for-the-badge)](https://aws.amazon.com/ec2/)
@@ -44,7 +34,7 @@ A fully automated data pipeline designed to streamline the process of collecting
 
 
 
-## End-to-End Airbnb Data Pipeline with AWS and GCP
+### End-to-End Airbnb Data Pipeline with AWS and GCP
   <!-- Tab Section -->
   [![AWS Glue](https://img.shields.io/badge/AWS_Glue-1E4D6B?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/glue/)
   [![Amazon S3](https://img.shields.io/badge/Amazon_S3-228B22?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/s3/)
