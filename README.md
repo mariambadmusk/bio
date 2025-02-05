@@ -20,7 +20,7 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 
 ## Projects:
 
-### AWS Driven News Aggregation And Sentiment Data Pipeline [Click](https://github.com/mariambadmusk/aws_driven_news_aggregation_and_sentiment_analysis_platform_data_pipeline)
+### [AWS Driven News Aggregation And Sentiment Data Pipeline](https://github.com/mariambadmusk/aws_driven_news_aggregation_and_sentiment_analysis_platform_data_pipeline)
 
 [![AWS](https://img.shields.io/badge/AWS-004080?style=for-the-badge)](https://aws.amazon.com/)
 [![EC2](https://img.shields.io/badge/EC2-0066CC?style=for-the-badge)](https://aws.amazon.com/ec2/)
@@ -36,7 +36,7 @@ Hi, I'm my name is Mariam, a passionate Junior Data Engineer with over 2 years o
 A fully automated data pipeline designed to streamline the process of collecting, analysing, and storing daily news articles. Leveraging the Newsdata.io API, it fetches relevant news articles, performs sophisticated sentiment analysis, and securely stores the processed data in a PostgreSQL database deployed on Amazon RDS. 
 
 
-### End-to-End Airbnb Data Pipeline with AWS and GCP [Click](https://github.com/mariambadmusk/end_to_end_airbnb_data_pipeline_with_aws_and_gcp-)
+### [End-to-End Airbnb Data Pipeline with AWS and GCP](https://github.com/mariambadmusk/end_to_end_airbnb_data_pipeline_with_aws_and_gcp-)
   <!-- Tab Section -->
   [![AWS Glue](https://img.shields.io/badge/AWS_Glue-1E4D6B?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/glue/)
   [![Amazon S3](https://img.shields.io/badge/Amazon_S3-228B22?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/s3/)
